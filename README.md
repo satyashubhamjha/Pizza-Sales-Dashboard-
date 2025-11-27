@@ -7,10 +7,13 @@ It helps restaurant owners, managers, and analysts understand **sales trends, or
 
 ## 📂 Dataset File
 
-[![Excel](https://img.shields.io/badge/Pizza_Sales_Dataset-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](YOUR_DATASET_LINK_HERE)
+[![Excel](https://img.shields.io/badge/Pizza_Sales_Dataset-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Dahboards.xlsx)
 
 ---
 
+<img width="1344" height="768" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Best%20Depict%20Photo.png" />
+
+---
 # 🧩 PROBLEM STATEMENT
 
 We need to analyze key indicators from our pizza sales dataset to better understand performance and make data-driven decisions.  
@@ -49,7 +52,7 @@ This dashboard provides a modern, interactive view of pizza sales performance.
 It includes KPI cards, daily & monthly trends, busiest times, size/category sales breakdown, and best/worst sellers.
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/Pizza%20Sales%20PowerBI.png" width="900">
+  <img src="https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales.png" width="900">
 </p>
 
 > **Power BI Dashboard:** Clean, professional analytics with slicers, KPIs, and dynamic visuals.
@@ -77,19 +80,18 @@ These dashboards include pivot charts, KPI cards, donut charts, hour/day trends,
 ## 🌑 **Excel Dashboard – Dark Theme**
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/assets/Pizza%20Sales%20Dahboards.png" width="900">
+  <img src="https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dahboards.png" width="900">
 </p>
 
 ---
+## 🛠️ Tools Used
 
-# 🛠️ Tools Used
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Dahboards.xlsx)
 
-| Tool | Purpose |
-|------|---------|
-| 🟢 **Excel** | KPI calculations, pivot tables, dashboards |
-| 🟣 **Power BI** | Interactive visuals & business insights |
-| 📈 **Charts** | Line, bar, donut, funnel, stacked bar |
-| 🎨 **Formatting** | Card design, themes, layouts |
+[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Sales%20Dashboard%20updated.pbix)
+
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/satyashubhamjha/Pizza-Sales-Dashboard-/blob/main/Pizza%20Insights.sql)
+
 
 ---
 
@@ -112,7 +114,7 @@ These dashboards include pivot charts, KPI cards, donut charts, hour/day trends,
 ---
 
 # 🙌 Author  
-**Your Name**  
-📧 Email: your-email  
-🔗 GitHub: your-github-profile  
+**SHUBHAM KUMAR JHA**  
+📧 Email: shubhamjha14081@gmail.com 
+🔗 GitHub: https://github.com/satyashubhamjha  
 
