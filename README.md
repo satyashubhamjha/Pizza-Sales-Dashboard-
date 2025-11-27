@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Analysis – Excel & Power BI Dashboard Project
+# 🍕 Pizza Sales Analysis – Excel & Power BI Dashboard Project 
 
 This project delivers a complete **Pizza Sales Analytics System** using **both Excel and Power BI**.  
 It helps restaurant owners, managers, and analysts understand **sales trends, order behavior, pizza category performance, busiest hours, and best/worst sellers**.
